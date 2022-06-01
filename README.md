@@ -1,2 +1,2 @@
 # DIO-Fullstack-Bootcamp
-Repositório criado para o desafio de projeto de GitHub
+Repositório criado para armazenamento e organização de arquivos do Bootcamp TQI Fullstack Developer da DIO.
