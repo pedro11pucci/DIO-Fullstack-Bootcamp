@@ -1,0 +1,13 @@
+Git é um sistema de versionamento de códigos.
+
+GitHub é um serviço online que permite o armazenamento de repositórios Git na nuvem, tornando-o acessível de qualquer lugar.
+
+git init: Inicia um repositório Git no diretório.
+git status: Verifica o status do repositório, se foram adicionados novos arquivos ou se arquivos existentes foram modificados.
+git add: Adiciona arquivos novos ou modificados para serem comitados
+git commit: Comita as mudanças feitas no repositório.
+git push: Empurra as mudanças comitadas no repositório local para o repositório remoto.
+git pull: Atualiza o repositório local com mudanças feitas no repositório remoto.
+git branch: Lista as branches do repositório ou cria uma nova branch.
+git checkout: Troca para outra branch do repositório.
+git merge: Mescla os arquivos de duas branches diferentes.
