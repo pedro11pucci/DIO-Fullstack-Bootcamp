@@ -1,0 +1,8 @@
+* {
+    font-family: sans-serif;
+}
+
+:checked + label {
+    text-decoration: line-through;
+    color: grey;
+}
